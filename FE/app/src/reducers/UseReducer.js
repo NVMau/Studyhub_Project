@@ -1,5 +1,4 @@
-
-const UseReducer = (user, action) => {
+const UserReducer = (user, action) => {
     switch (action.type) {
         case "login": {
             localStorage.setItem('user', JSON.stringify(action.payload));
@@ -10,11 +9,12 @@ const UseReducer = (user, action) => {
             return null;
         }
         case "upstore":
-            return JSON.parse(localStorage.getItem('user'))
-
-        default: 
-            return user;
+            return JSON.parse(localStorage.getItem('user'));
+        default:
+            break;
     }
+
+    return user;
 }
 
-export default UseReducer
+export default UserReducer;
