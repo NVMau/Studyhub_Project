@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|solutionrelative:studyhub.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B27F597-274D-46E1-8AB3-408E47A531E1}|StudyHubBLL\\StudyHubBLL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhubbll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B27F597-274D-46E1-8AB3-408E47A531E1}|StudyHubBLL\\StudyHubBLL.csproj|solutionrelative:studyhubbll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub.dal\\studyhub.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|solutionrelative:studyhub.dal\\studyhub.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 496,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudyHub.DAL",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+              "RelativeDocumentMoniker": "StudyHub.DAL\\StudyHub.DAL.csproj",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+              "RelativeToolTip": "StudyHub.DAL\\StudyHub.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T12:12:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\Class1.cs",
+              "RelativeDocumentMoniker": "StudyHubBLL\\Class1.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\Class1.cs",
+              "RelativeToolTip": "StudyHubBLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:13:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "StudyHub.DAL\\Class1.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Class1.cs",
+              "RelativeToolTip": "StudyHub.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:12:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Program.cs",
+              "RelativeDocumentMoniker": "StudyHub\\Program.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Program.cs",
+              "RelativeToolTip": "StudyHub\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:11:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyHubBLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f0876d1355a01a13cce8a8cbcf1f13854a8aa2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyHubBLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyHubBLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
