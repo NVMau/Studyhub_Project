@@ -1,0 +1,40 @@
+﻿@model IEnumerable<StudyHub.DAL.Models.MonHoc>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Môn học</h1>
+
+<p>
+    <a asp-action="Create">Thêm môn học mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Tên môn
+            </th>
+            <th>
+                Số Tín chỉ
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenMonHoc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoTinChi)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdMonHoc" class="btn btn-warning">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdMonHoc" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

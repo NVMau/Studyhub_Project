@@ -1,0 +1,69 @@
+﻿@model StudyHub.DAL.Models.UserOu
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Thông tin Tài khoản</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>@Model.Username</h4>
+        <hr />
+        <dl class="row">
+           @*  <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Username)
+            </dd> *@
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+            <dd class="col-sm-10">
+                ******************************
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+           @*  <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Avatar)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Avatar)
+            </dd> *@
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Address)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Address)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Role)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Role)
+            </dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <img src="@Model.Avatar" class="img-fluid" alt="Avatar" style="max-width: 400px; max-height: 400px;">
+    </div>
+</div>
+
+<div style="display:flex">
+    <a asp-action="Edit" asp-route-id="@Model?.IdUser" class="btn btn-warning">Edit</a> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
