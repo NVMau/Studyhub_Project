@@ -1,0 +1,15 @@
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll

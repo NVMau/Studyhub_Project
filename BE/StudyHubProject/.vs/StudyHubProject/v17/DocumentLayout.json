@@ -1,7 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|solutionrelative:studyhub.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\adminstudyhub\\adminstudyhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|solutionrelative:adminstudyhub\\adminstudyhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub.dal\\models\\userou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|solutionrelative:studyhub.dal\\models\\userou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\modelrequest\\modelcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\modelrequest\\modelcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\studyhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\studyhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6600E26-C953-4BC0-940C-D9CF0FC4D8A2}|StudyHub\\StudyHub.csproj|solutionrelative:studyhub\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\adminstudyhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|solutionrelative:adminstudyhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\adminstudyhub\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB4A64-4495-4E40-A8A1-2833D4F9CDA3}|AdminStudyHub\\AdminStudyHub.csproj|solutionrelative:adminstudyhub\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B27F597-274D-46E1-8AB3-408E47A531E1}|StudyHubBLL\\StudyHubBLL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhubbll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B27F597-274D-46E1-8AB3-408E47A531E1}|StudyHubBLL\\StudyHubBLL.csproj|solutionrelative:studyhubbll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|d:\\learning school\\qldapm\\studyhub_project\\be\\studyhubproject\\studyhub.dal\\models\\hethongquanlyhoctapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303D206-214C-4A63-91CC-D31D5770690E}|StudyHub.DAL\\StudyHub.DAL.csproj|solutionrelative:studyhub.dal\\models\\hethongquanlyhoctapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -19,7 +76,7 @@
         },
         {
           "DockedHeight": 192,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,15 +84,193 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "StudyHub.DAL\\UserDAL.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\UserDAL.cs",
+              "RelativeToolTip": "StudyHub.DAL\\UserDAL.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:05:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminStudyHub",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
+              "RelativeDocumentMoniker": "AdminStudyHub\\AdminStudyHub.csproj",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
+              "RelativeToolTip": "AdminStudyHub\\AdminStudyHub.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T14:25:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserOu.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Models\\UserOu.cs",
+              "RelativeDocumentMoniker": "StudyHub.DAL\\Models\\UserOu.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Models\\UserOu.cs",
+              "RelativeToolTip": "StudyHub.DAL\\Models\\UserOu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:24:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "StudyHub\\WeatherForecast.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\WeatherForecast.cs",
+              "RelativeToolTip": "StudyHub\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:23:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "modelcustom.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\modelRequest\\modelcustom.cs",
+              "RelativeDocumentMoniker": "StudyHub\\modelRequest\\modelcustom.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\modelRequest\\modelcustom.cs",
+              "RelativeToolTip": "StudyHub\\modelRequest\\modelcustom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:20:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudyHub",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+              "RelativeDocumentMoniker": "StudyHub\\StudyHub.csproj",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+              "RelativeToolTip": "StudyHub\\StudyHub.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T14:17:09.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "StudyHub\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "StudyHub\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:15:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\appsettings.json",
+              "RelativeDocumentMoniker": "StudyHub\\appsettings.json",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\appsettings.json",
+              "RelativeToolTip": "StudyHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T14:14:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StudyHub\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StudyHub\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:11:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudyHub\\appsettings.Development.json",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\appsettings.Development.json",
+              "RelativeToolTip": "StudyHub\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T14:14:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminStudyHub\\appsettings.json",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\appsettings.json",
+              "RelativeToolTip": "AdminStudyHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T14:14:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AdminStudyHub\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AdminStudyHub\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:09:46.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "StudyHubBLL\\UserBLL.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\UserBLL.cs",
+              "RelativeToolTip": "StudyHubBLL\\UserBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:07:56.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeThongQuanLyHocTapContext.cs",
+              "DocumentMoniker": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Models\\HeThongQuanLyHocTapContext.cs",
+              "RelativeDocumentMoniker": "StudyHub.DAL\\Models\\HeThongQuanLyHocTapContext.cs",
+              "ToolTip": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\Models\\HeThongQuanLyHocTapContext.cs",
+              "RelativeToolTip": "StudyHub.DAL\\Models\\HeThongQuanLyHocTapContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:02:39.656Z",
+              "EditorCaption": ""
             }
           ]
         }
