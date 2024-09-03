@@ -1,0 +1,52 @@
+﻿@model IEnumerable<StudyHub.DAL.KhoaHocDAL.KhoaHocDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách Khóa học</h1>
+
+<p>
+    <a asp-action="Create">Tạo Khóa học</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên khóa học
+            </th>
+            <th>
+                Tên giảng viên
+            </th>
+            <th>
+                Tên môn học
+            </th>
+            <th>
+                Năm học
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.TenKhoaHoc)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.TenGiangVien)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.MonHoc)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.NamHocKy)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdKhoaHoc" class="btn btn-outline-warning">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdKhoaHoc" class="btn btn-outline-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

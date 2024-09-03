@@ -1,9 +1,9 @@
-
-import { Link, Navigate, json, useLocation, useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import Drawer from '../Drawer/Drawer';
 import '../Style.css'
 import './Cource.css'
 import { useEffect, useState } from 'react';
+
 const CourseTC = () => {
     const Navigate = useNavigate();
     const location = useLocation();
@@ -96,7 +96,6 @@ const CourseTC = () => {
                 return "không tìm thấy kiểu bài tập";
         }
     };
-
 
     // xóa bài tập
     const deleteBaiTap = async (idBaiTap) => {
@@ -468,11 +467,10 @@ const CourseTC = () => {
                             </div>
                         )}
                     </div>
-
                 </div>
             </div>
         </div >
     )
 };
 
-export default CourseTC
+export default CourseTC;
