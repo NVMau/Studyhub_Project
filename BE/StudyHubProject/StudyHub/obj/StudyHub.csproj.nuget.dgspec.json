@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {}
+    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {}
   },
   "projects": {
-    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
         "projectName": "StudyHub.DAL",
-        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\obj\\",
+        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
+    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
+        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
         "projectName": "StudyHub.BLL",
-        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\obj\\",
+        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
+        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
-                "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
+              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
               }
             }
           }
@@ -158,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {
+    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
         "projectName": "StudyHub",
-        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
+        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,11 +187,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
-                "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
+              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
               },
-              "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
-                "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj"
+              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
+                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj"
               }
             }
           }
@@ -257,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
