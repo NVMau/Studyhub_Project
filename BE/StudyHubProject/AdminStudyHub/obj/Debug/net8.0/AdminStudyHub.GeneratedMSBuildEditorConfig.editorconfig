@@ -17,119 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdminStudyHub
 build_property.RootNamespace = AdminStudyHub
-build_property.ProjectDir = D:\Works List\QLDAPM\Studyhub_Project\BE\StudyHubProject\AdminStudyHub\
+build_property.ProjectDir = D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\AdminStudyHub\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Works List\QLDAPM\Studyhub_Project\BE\StudyHubProject\AdminStudyHub
+build_property.MSBuildProjectDirectory = D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\AdminStudyHub
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Create.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS3lzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Delete.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS3lzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Details.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS3lzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Edit.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS3lzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Index.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/HocKys/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS3lzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Home/Index.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Home/Privacy.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Create.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Delete.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Details.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Edit.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Index.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/KhoaHocs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Create.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Delete.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Details.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Edit.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Index.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/MonHocs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/Error.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Create.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Delete.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Details.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Edit.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Index.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/_ViewImports.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/_ViewStart.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Works List/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/_Layout.cshtml]
+[D:/LEARNING SCHOOL/QLDAPM/Studyhub_Project/BE/StudyHubProject/AdminStudyHub/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-e6rzjfvyh7
