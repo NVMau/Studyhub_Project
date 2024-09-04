@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj": {}
+    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj": {}
   },
   "projects": {
-    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj": {
+    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
+        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
         "projectName": "AdminStudyHub",
-        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
-        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\",
+        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\AdminStudyHub.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,7 +28,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
+                "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -80,7 +84,165 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "projectName": "StudyHub.DAL",
+        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
+        "projectName": "StudyHub.BLL",
+        "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+                "projectPath": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

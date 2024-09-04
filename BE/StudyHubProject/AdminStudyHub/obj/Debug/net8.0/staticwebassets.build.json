@@ -1,11 +1,50 @@
 {
   "Version": 1,
-  "Hash": "KL1QGElpO/y/Pf/E1SAjUvNLncwYrxc9V6S5LtXlhPY=",
+  "Hash": "c+wWUmhmaqW/YS04wy7wfmueATfacdAMJQW84KRgQXw=",
   "Source": "AdminStudyHub",
   "BasePath": "_content/AdminStudyHub",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminStudyHub.styles.css",
+      "SourceId": "AdminStudyHub",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AdminStudyHub",
+      "RelativePath": "AdminStudyHub.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminStudyHub.styles.css"
+    },
+    {
+      "Identity": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminStudyHub.bundle.scp.css",
+      "SourceId": "AdminStudyHub",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AdminStudyHub",
+      "RelativePath": "AdminStudyHub.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Works List\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminStudyHub.bundle.scp.css"
+    }
+  ]
 }
