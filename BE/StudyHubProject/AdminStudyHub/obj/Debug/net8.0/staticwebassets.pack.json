@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\AdminStudyHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminStudyHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminStudyHub.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminStudyHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminStudyHub.props",
+      "PackagePath": "build\\AdminStudyHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminStudyHub.props",
+      "PackagePath": "buildMultiTargeting\\AdminStudyHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminStudyHub.props",
+      "PackagePath": "buildTransitive\\AdminStudyHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

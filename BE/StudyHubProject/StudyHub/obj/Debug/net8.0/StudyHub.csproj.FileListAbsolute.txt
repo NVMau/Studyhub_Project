@@ -137,6 +137,6 @@ D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug
 D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHub.DAL.dll
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHubBLL.dll
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHubBLL.pdb
 D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHub.BLL.dll
+D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub\bin\Debug\net8.0\StudyHub.BLL.pdb

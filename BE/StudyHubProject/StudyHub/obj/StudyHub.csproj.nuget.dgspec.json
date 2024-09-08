@@ -81,12 +81,12 @@
         }
       }
     },
-    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHubBLL.csproj": {
+    "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHubBLL.csproj",
-        "projectName": "StudyHubBLL",
-        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHubBLL.csproj",
+        "projectUniqueName": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
+        "projectName": "StudyHub.BLL",
+        "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj",
         "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
         "outputPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\obj\\",
         "projectStyle": "PackageReference",
@@ -187,8 +187,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHubBLL.csproj": {
-                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHubBLL.csproj"
+              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
+              },
+              "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj": {
+                "projectPath": "D:\\LEARNING SCHOOL\\QLDAPM\\Studyhub_Project\\BE\\StudyHubProject\\StudyHubBLL\\StudyHub.BLL.csproj"
               }
             }
           }
@@ -232,7 +235,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.3, )"
             }
           },
           "imports": [
