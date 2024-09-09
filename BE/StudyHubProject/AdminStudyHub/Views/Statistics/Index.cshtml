@@ -1,0 +1,34 @@
+﻿@model AdminStudyHub.Models.StatisticsViewModel
+
+@{
+    ViewData["Title"] = "Thống kê";
+}
+
+<h1>Thống kê</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">Tổng số người dùng</h5>
+                <p class="card-text">@Model.TotalUsers</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">Tổng số môn học</h5>
+                <p class="card-text">@Model.TotalMonHocs</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center">
+            <div class="card-body">
+                <h5 class="card-title">Tổng số khóa học</h5>
+                <p class="card-text">@Model.TotalKhoaHocs</p>
+            </div>
+        </div>
+    </div>
+</div>
