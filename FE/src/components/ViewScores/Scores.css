@@ -1,0 +1,13 @@
+.list-mon-diem {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.head-score {
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

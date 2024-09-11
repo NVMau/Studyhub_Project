@@ -1,0 +1,20 @@
+.list-mon-hoc {
+    width: 790px;
+    background-color: rgb(200, 199, 199);
+}
+
+.list-da-dk {
+    width: 400px;
+    background-color: rgb(204, 204, 204);
+}
+
+.col-dk-mon {
+    margin: 10px;
+    height: 560px;
+    padding: 10px;
+}
+
+.view-list {
+    height: 500px;
+    overflow: auto;
+}

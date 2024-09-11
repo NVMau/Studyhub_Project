@@ -1,0 +1,86 @@
+.head {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(115, 192, 255);
+    display: flex;
+    justify-content: space-around;
+    /* background-image: url('https://i.pinimg.com/564x/c0/23/d1/c023d158b143bc5626d567f3fa74267d.jpg');
+    background-size: cover;
+    background-position: center; */
+}
+
+.course-calender {
+    width: 100%;
+    min-height: 600px;
+    /* background-color: rgb(30, 255, 0); */
+    display: flex;
+}
+
+.mid {
+    width: 75%;
+    background-color: rgb(207, 207, 207);
+}
+
+.right-side {
+    width: 25%;
+    background-color: rgb(5, 137, 177);
+}
+
+.couses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.couse {
+    width: 85%;
+    height: 180px;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    background-image: url('https://i.pinimg.com/originals/04/34/89/043489e7922dabf9902965b964ca04a5.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: filter 0.3s ease;
+}
+
+.couse:hover,
+.teacher:hover {
+    margin-top: 20px;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.2);
+    filter: brightness(1.1);
+    /* Tăng độ sáng khi hover vào */
+}
+
+.img-course {
+    height: 100%;
+    border-radius: 20px;
+}
+
+.info-couse {
+    padding: 0px 20px;
+}
+
+.day {
+    background-color: aqua;
+}
+
+.teacher {
+    width: 85%;
+    height: 180px;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    background-image: url('/public/images/5406876.jpg');
+    background-size: cover;
+    background-position: center;
+    transition: filter 0.3s ease;
+}

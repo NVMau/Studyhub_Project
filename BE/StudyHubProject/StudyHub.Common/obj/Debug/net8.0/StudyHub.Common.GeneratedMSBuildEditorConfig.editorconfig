@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudyHub.Common
-build_property.ProjectDir = D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.Common\
+build_property.ProjectDir = D:\Works List\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.Common\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

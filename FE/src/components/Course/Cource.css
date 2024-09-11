@@ -1,0 +1,90 @@
+.limited-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    /* Số dòng tối đa */
+    overflow: hidden;
+    max-width: 90%;
+    /* Đặt giới hạn 30 kí tự */
+}
+
+.cont-monhoc {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-table-diems {
+    width: 80%;
+}
+
+.view-baihoc {
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    min-height: 300px;
+    padding: 10px;
+}
+
+.view-Diem {
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-custom {
+    background-color: #0e62d7;
+    color: aliceblue;
+
+}
+
+.btn-custom:hover {
+    background-color: #0CC8F2;
+}
+
+.view-dien-dan {
+    width: 80%;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    min-height: 300px;
+    padding: 10px;
+
+}
+
+.create-quest {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-create-exam {
+    height: 400px;
+    margin-bottom: 20px;
+
+}
+
+.box-quest-list {
+    background-color: rgb(202, 202, 202);
+    max-height: 200px;
+    overflow: auto;
+}
+
+.quest {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgreen;
+    margin-top: 2px;
+}
+
+.quest-selected {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    margin-top: 2px;
+}
+
+.soanDapAn,
+.btap-cont {
+    display: flex;
+    justify-content: space-between;
+}

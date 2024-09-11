@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(243, 239, 241);
+}
+
+.container-cont {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    background-color: rgb(243, 239, 241);
+    display: flex;
+}
+
+.cont {
+    width: 100%;
+    padding-left: 300px;
+}
+
+.gb404 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url('/public/images/3139003.jpg');
+    background-size: cover;
+    background-position: center;
+}
