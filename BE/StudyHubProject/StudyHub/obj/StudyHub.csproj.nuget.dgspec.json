@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {}
+    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {}
   },
   "projects": {
-    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
+    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj",
         "projectName": "StudyHub.BLL",
-        "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj",
-        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\obj\\",
+        "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj",
+        "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
-                "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
+              "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+                "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj"
               }
             }
           }
@@ -81,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
+    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
         "projectName": "StudyHub.DAL",
-        "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
-        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\obj\\",
+        "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\StudyHub.DAL.csproj",
+        "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {
+    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+        "projectUniqueName": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
         "projectName": "StudyHub",
-        "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
-        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
+        "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+        "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,8 +187,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
-                "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj"
+              "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
+                "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj"
               }
             }
           }
@@ -258,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
