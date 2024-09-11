@@ -77,7 +77,7 @@ namespace StudyHub.Controllers
         // ham tim user
         private bool IsValidUser(LoginModel user)
         {
-            UserOu u = _userBLL.GetUserByUsernameAndPassword(user.Username, user.Password);
+           UserOu u = _userBLL.GetUserByUsernameAndPassword(user.Username, user.Password);
             if (u == null)
                 return false;
             else

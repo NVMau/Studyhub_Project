@@ -11,7 +11,7 @@ namespace StudyHub.Controllers
         private readonly LoaiBTBLL loaiBTBLL = new LoaiBTBLL();
 
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetAll() 
         {
             return Ok(loaiBTBLL.GetAll());
         }

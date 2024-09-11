@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StudyHub.BLL;
-using StudyHub.DAL;
 using StudyHub.DAL.Models;
 
 namespace StudyHub.Controllers

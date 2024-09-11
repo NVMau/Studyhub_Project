@@ -106,11 +106,11 @@ namespace StudyHub.Controllers
         public IActionResult NhapDiemBaiTuLuan([FromBody] NhapDiemTuLuan nhapDiemTuLuan)
         {
             var sinhvienlambai = _sinhVienLamBaiBLL.GetSinhVienLamBaiById(nhapDiemTuLuan.IdBaiLam);
-            if (sinhvienlambai == null)
+            if(sinhvienlambai == null)
                 return NotFound();
             //Update điểm lại sau khi chấm 
             var cotDiem = _cotDiemBLL.GetCotDiemById(sinhvienlambai.IdCotDiem);
-            if (cotDiem == null)
+            if(cotDiem == null)
                 return NotFound();
             cotDiem.Diem = nhapDiemTuLuan.Diem;
 
@@ -160,7 +160,7 @@ namespace StudyHub.Controllers
                 // Thu thập thông tin cần thiết từ sinhVienLamBai để gửi về client
                 var cotDiemInfo = new
                 {
-                    IdBaiTap = _baiTapBLL.GetBaiTapById(sinhVienLamBai.IdBaiTap).IdBaiTap,
+                    IdBaiTap =_baiTapBLL.GetBaiTapById(sinhVienLamBai.IdBaiTap).IdBaiTap,
 
                     TenCotDiem = _baiTapBLL.GetBaiTapById(sinhVienLamBai.IdBaiTap).TenBaiTap,
 

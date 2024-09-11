@@ -1,0 +1,39 @@
+﻿html {
+    font-size: 14px;
+    height: 100%; /* Đảm bảo html chiếm đủ chiều cao trang */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Đảm bảo body cũng chiếm đủ chiều cao trang */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Đảm bảo body chiếm ít nhất chiều cao của viewport */
+}
+.container {
+    flex: 1; /* Thêm thuộc tính này để container chính chiếm không gian còn lại */
+}
+
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+    /* Không cần position relative và bottom 0 vì footer đã nằm dưới nhờ flexbox */
+}

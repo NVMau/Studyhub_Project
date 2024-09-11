@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StudyHub.BLL;
-using StudyHub.DAL;
 
 namespace StudyHub.Controllers
 {
@@ -12,8 +11,7 @@ namespace StudyHub.Controllers
         private readonly LoaiCauHoiBLL loaiCauHoiBLL = new LoaiCauHoiBLL();
 
         [HttpGet]
-        public IActionResult Get()
-        {
+        public IActionResult Get() {
             return Ok(loaiCauHoiBLL.GetALL());
         }
     }

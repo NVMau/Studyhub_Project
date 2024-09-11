@@ -91,7 +91,7 @@ namespace StudyHub.DAL
         {
             var user = context.UserOus
                 .FirstOrDefault(u => u.IdUser == userId);
-            if (user != null)
+            if(user != null)
             {
                 user.Password = password;
                 context.SaveChanges();

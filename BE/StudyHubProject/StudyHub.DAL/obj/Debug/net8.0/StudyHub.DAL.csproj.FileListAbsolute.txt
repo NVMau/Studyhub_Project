@@ -1,15 +1,93 @@
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
-D:\LEARNING SCHOOL\QLDAPM\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.Common.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\bin\Debug\net8.0\StudyHub.Common.pdb
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.22A06BD1.Up2Date
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\StudyHub\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\HOC TAP\Ky2Nam3\ProjectDotNet\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\LEARNING SCHOOL\Semester2_Year3\LT_CO_SO_DL\StudyHub_.Net8-Eban\StudyHub_.Net8\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\HOC TAP\Ky2Nam3\Lap trinh co so du lieu\HocBackend\MauProJect\StudyHub_.Net8Fix\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\LEARNING SCHOOL\QLDAPM\StudyHub_.Net8\BE\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.deps.json
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.runtimeconfig.json
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\bin\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.AssemblyReference.cache
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfoInputs.cache
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.AssemblyInfo.cs
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.csproj.CoreCompileInputs.cache
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.sourcelink.json
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\refint\StudyHub.DAL.dll
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.pdb
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\StudyHub.DAL.genruntimeconfig.cache
+D:\LEARNING SCHOOL\Studyhub_Project\BE\StudyHubProject\StudyHub.DAL\obj\Debug\net8.0\ref\StudyHub.DAL.dll

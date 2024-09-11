@@ -64,7 +64,7 @@ namespace StudyHub.Controllers
             return NoContent();
         }
 
-        //DELETE: api/User/5
+         //DELETE: api/User/5
         [HttpDelete("{id}")]
         public IActionResult DeleteUser(int id)
         {
@@ -81,9 +81,9 @@ namespace StudyHub.Controllers
         [HttpPut("changPassword")]
         public IActionResult UpdatePassUser(int idUser, [FromBody] string password)
         {
-            if (idUser != null && password != null)
+            if(idUser != null && password != null)
             {
-                var user = _userBLL.ChangePass(idUser, password);
+               var user = _userBLL.ChangePass(idUser, password);
                 return Ok(user);
             }
             return BadRequest();
