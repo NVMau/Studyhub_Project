@@ -5045,19 +5045,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KHANG\\.nuget\\packages\\": {}
+    "C:\\Users\\nmau4\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+      "projectUniqueName": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
       "projectName": "StudyHub",
-      "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
-      "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
+      "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\StudyHub.csproj",
+      "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
+      "outputPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5072,8 +5072,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
-              "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj"
+            "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj": {
+              "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.BLL\\StudyHub.BLL.csproj"
             }
           }
         }
@@ -5143,7 +5143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

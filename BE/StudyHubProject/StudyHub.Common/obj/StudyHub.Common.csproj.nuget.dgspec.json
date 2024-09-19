@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj": {}
+    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj": {
+    "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj",
+        "projectUniqueName": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj",
         "projectName": "StudyHub.Common",
-        "projectPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj",
-        "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KHANG\\Desktop\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\obj\\",
+        "projectPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\StudyHub.Common.csproj",
+        "packagesPath": "C:\\Users\\nmau4\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING SCHOOL\\Studyhub_Project\\BE\\StudyHubProject\\StudyHub.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nmau4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

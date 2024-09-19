@@ -11,6 +11,16 @@ namespace StudyHub.DAL
     public class KhoaHocDAL
     {
         HeThongQuanLyHocTapContext context = new HeThongQuanLyHocTapContext();
+        public KhoaHocDAL()
+        {
+            context = new HeThongQuanLyHocTapContext();  // Hoặc khởi tạo với thông tin kết nối thực tế
+        }
+
+        // Constructor cho phép truyền context từ bên ngoài (dùng cho test)
+        public KhoaHocDAL(HeThongQuanLyHocTapContext context)
+        {
+            this.context = context;
+        }
         // model đối tượng trả về 
         public class KhoaHocDTO
         {
