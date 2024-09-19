@@ -12,6 +12,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyHub.BLL", "StudyHub.BL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyHub.DAL", "StudyHub.DAL\StudyHub.DAL.csproj", "{B5EE569B-C741-4A82-8A32-CCCAC58B2699}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyHub.Tests", "StudyHub.Tests\StudyHub.Tests.csproj", "{31299001-D778-4491-9037-FF2E260B0B52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{B5EE569B-C741-4A82-8A32-CCCAC58B2699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5EE569B-C741-4A82-8A32-CCCAC58B2699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5EE569B-C741-4A82-8A32-CCCAC58B2699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31299001-D778-4491-9037-FF2E260B0B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31299001-D778-4491-9037-FF2E260B0B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31299001-D778-4491-9037-FF2E260B0B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31299001-D778-4491-9037-FF2E260B0B52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
